@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/eng-comp.io/static/css/main.042845b0.css",
-    "main.js": "/eng-comp.io/static/js/main.36dfb349.js",
+    "main.js": "/eng-comp.io/static/js/main.bc2ba889.js",
     "static/js/787.d4352972.chunk.js": "/eng-comp.io/static/js/787.d4352972.chunk.js",
     "static/media/Calendario-BH-2022-2.pdf": "/eng-comp.io/static/media/Calendario-BH-2022-2.1cf4de4d731521d070b9.pdf",
     "static/media/grupos.md": "/eng-comp.io/static/media/grupos.12b86458b728000c4ca5.md",
@@ -9,11 +9,11 @@
     "static/media/info.md": "/eng-comp.io/static/media/info.6fd2a4ba75c4589b241b.md",
     "index.html": "/eng-comp.io/index.html",
     "main.042845b0.css.map": "/eng-comp.io/static/css/main.042845b0.css.map",
-    "main.36dfb349.js.map": "/eng-comp.io/static/js/main.36dfb349.js.map",
+    "main.bc2ba889.js.map": "/eng-comp.io/static/js/main.bc2ba889.js.map",
     "787.d4352972.chunk.js.map": "/eng-comp.io/static/js/787.d4352972.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.042845b0.css",
-    "static/js/main.36dfb349.js"
+    "static/js/main.bc2ba889.js"
   ]
 }
